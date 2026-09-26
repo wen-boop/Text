@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">文本小部件</string>
+    <string name="widget_text_hint">点击编辑文本</string>
+    <string name="config_title">编辑小部件文本</string>
+    <string name="config_hint">输入要在小部件中显示的文字</string>
+    <string name="action_confirm">确认</string>
+    <string name="action_cancel">取消</string>
+    <string name="main_title">文本小部件</string>
+    <string name="main_desc">长按桌面空白处 → 选择「小部件」→ 找到「文本小部件」→ 拖动到桌面即可。\n\n添加后点击小部件可随时修改文本，小部件支持自由调整大小。</string>
+</resources>
